@@ -1,7 +1,7 @@
 # Webdriver setup
 
-npm install @wdio/cli
-npx wdio config
+- npm install @wdio/cli
+- npx wdio config
 
 # BookDesk
 
