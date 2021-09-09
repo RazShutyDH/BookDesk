@@ -1,5 +1,5 @@
-describe('My Login application', () => {
-    it('should login with valid credentials', async () => {
+describe('My Desk Booking application', () => {
+    it('should book a desk', async () => {
 
 
         let email = 'YOUR EMAIL'
